@@ -1,0 +1,7 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	logallrefupdates = true
+[remote "origin"]
+	url = https://github.com/SeoInA/prelab_0425.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
